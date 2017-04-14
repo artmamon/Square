@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication3\Square\bin\Debug\Square.dll
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication3\Square\bin\Debug\Square.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication3\Square\obj\Debug\Square.dll
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication3\Square\obj\Debug\Square.pdb
